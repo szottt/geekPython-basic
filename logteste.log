@@ -1,0 +1,4 @@
+INFO:root:Um informação do log
+WARNING:root:Uma mensagem de perigo
+ERROR:root:Uma mensagem de erro
+CRITICAL:root:Uma mensagem critica
